@@ -1,0 +1,30 @@
+
+.userlogin{
+
+    background-color: rgb(125, 177, 216);
+    /* padding: 100px; */
+   margin-top: 50px;
+    height: 270px;
+    width: 330px;
+    border-radius: 10px;
+    border-color: rgb(22, 6, 6);
+    border: 2px solid rgb(115, 107, 107);
+
+}
+.register {
+    background-color: rgb(139, 205, 228);
+    padding: 20px; 
+    margin-top: 20px;
+    height: auto; 
+    max-width: 360px;
+    border-radius: 15px; 
+    border: 2px solid rgb(115, 107, 107); 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+}
+
+.input{
+
+    margin: 50px;
+    
+    
+}
