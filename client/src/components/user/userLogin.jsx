@@ -21,6 +21,7 @@ function UserLogin() {
               <input
                 class="p-2 mt-4 w-64 bg-gray-300 rounded-md shadow-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent mb-2 mt-2"
                 type="text"
+                
                 placeholder="Enter your Password"
               />
 
